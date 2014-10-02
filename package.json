@@ -1,0 +1,23 @@
+{
+  "name": "bone-connect-cli",
+  "version": "0.0.1",
+  "description": "static server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "wyicwx",
+    "email": "wyicwx@gmail.com",
+    "web": "http://weibo.com/simplemaple"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wyicwx/bone-connect-cli.git"
+  },  
+  "license": "MIT",
+  "dependencies": {
+    "commander": "~2.3.0",
+    "bone-connect": "0.0.1"
+  }
+}
