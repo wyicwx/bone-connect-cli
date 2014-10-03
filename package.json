@@ -1,6 +1,6 @@
 {
   "name": "bone-connect-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "static server",
   "main": "index.js",
   "scripts": {
