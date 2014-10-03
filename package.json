@@ -14,7 +14,10 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:wyicwx/bone-connect-cli.git"
-  },  
+  },
+  "bin": {
+    "bone-connect": "bone-connect"
+  },
   "license": "MIT",
   "dependencies": {
     "commander": "~2.3.0",
