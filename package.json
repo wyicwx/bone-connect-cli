@@ -1,6 +1,6 @@
 {
   "name": "bone-connect-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "static server",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "git@github.com:wyicwx/bone-connect-cli.git"
   },
   "bin": {
-    "bone-connect": "bone-connect"
+    "bone-connect": "bin/bone-connect"
   },
   "license": "MIT",
   "dependencies": {
