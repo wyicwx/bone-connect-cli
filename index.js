@@ -3,8 +3,8 @@ var commander = require('commander');
 
 
 boneConnect({
-	commander: commander
-})();
+	notBone: true
+})(commander.command.bind(commander));
 
 var argv = process.argv.slice(2);
 argv.unshift('connect');
